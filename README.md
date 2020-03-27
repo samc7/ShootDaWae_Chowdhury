@@ -4,7 +4,8 @@ This is my culminating project for my grade 10 Computer Science course. It is my
 OOP. There are a few minor bugs.
 
 ## The Story
-You have been assigned to carry precious bounty accross the Universe eternally. Defend the bounty (and yourself) from aliens who are trying to take your bounty! Every three alien ships killed, the faster and stronger the aliens become.
+You have been assigned to carry precious bounty accross the Universe eternally. Defend the bounty and yourself from the aliens! The aliens 
+become faster and stronger for every three alien ships killed.
 
 ## How to Run and Play
 The game is programmed in Python, in the Processing Development Environment. The Minim Audio Library is also used.
@@ -20,4 +21,4 @@ The game is programmed in Python, in the Processing Development Environment. The
 9. Enjoy!
 
 ## Game Flow
-![]()
+![](https://raw.githubusercontent.com/samc7/ShootDaWae_Chowdhury/master/Flowchart.png)
