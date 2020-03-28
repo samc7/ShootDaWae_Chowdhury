@@ -3,6 +3,9 @@ Shoot Da Wae Thru Space (2018)
 This is my culminating project for my grade 10 Computer Science course. It is my first video game, as well as my first time using 
 OOP. There are a few minor bugs.
 
+This game is a space shooter, where you are in a spaceship killing enemies that enter the screen from the top and fall down as they
+attack you.
+
 ## The Story
 You have been assigned to carry precious bounty accross the Universe eternally. Defend the bounty and yourself from the aliens! The aliens 
 become faster and stronger for every three alien ships killed.
